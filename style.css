@@ -288,6 +288,7 @@ section.portifolio {
     box-shadow: 0 0 40px 10px rgba(255, 255, 255, 0.219);
 }
 
+
 section.portifolio .flex {
     justify-content: space-around;
     margin-top: 60px;
@@ -303,6 +304,11 @@ section.portifolio .flex {
     cursor: pointer;
     border-radius: 40px;
     position: relative;
+}
+
+.img-port a{
+    text-decoration: none;
+    color: white;
 }
 
 .img-port:hover {
